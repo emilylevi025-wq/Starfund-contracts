@@ -432,3 +432,8 @@ cargo llvm-cov --features testutils --fail-under-lines 95 --summary-only -p star
 ## Contributing
 
 MIT
+
+## Handsoff notes
+
+<!-- handsoff-issue-264 -->
+- #264: [Wave 10 #161] set_investors_allowlisted Batch Entrypoint Permits Duplicate Addresses, Corrupting AllowlistIndex
