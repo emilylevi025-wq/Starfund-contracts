@@ -443,3 +443,6 @@ MIT
 
 <!-- handsoff-issue-266 -->
 - #266: [Wave 10 #163] bind_primary_attestation_hash Permits Binding Empty (All-Zeros) Digest
+
+<!-- handsoff-issue-267 -->
+- #267: [Wave 10 #164] append_attestation_digest Permits Storing Duplicate Digests in Append Log
