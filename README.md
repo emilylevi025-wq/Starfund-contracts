@@ -440,3 +440,6 @@ MIT
 
 <!-- handsoff-issue-265 -->
 - #265: [Wave 10 #162] get_allowlisted_investors Panics When start Offset Exceeds Allowlist Size
+
+<!-- handsoff-issue-266 -->
+- #266: [Wave 10 #163] bind_primary_attestation_hash Permits Binding Empty (All-Zeros) Digest
