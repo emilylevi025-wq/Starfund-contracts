@@ -437,3 +437,6 @@ MIT
 
 <!-- handsoff-issue-264 -->
 - #264: [Wave 10 #161] set_investors_allowlisted Batch Entrypoint Permits Duplicate Addresses, Corrupting AllowlistIndex
+
+<!-- handsoff-issue-265 -->
+- #265: [Wave 10 #162] get_allowlisted_investors Panics When start Offset Exceeds Allowlist Size
